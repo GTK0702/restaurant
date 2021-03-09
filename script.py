@@ -39,5 +39,5 @@ result=selected_food.get_total_price(count)+selected_drink.get_total_price(count
 
 print("合計は"+str(result)+"円です")
 
-
+print("Enterキーで終了します。")
 input()
